@@ -17,3 +17,8 @@
 ## Uso
 
 Para comenzar a utilizar MundoFutbol, simplemente accede a nuestra plataforma en línea o utiliza nuestra API para acceder a los datos programáticamente. Desde allí, podrás explorar la amplia gama de información disponible y realizar consultas personalizadas según tus necesidades.
+
+## Autores
+
+- Cesar David Amaya Gomez.
+- Sebastian Zamora Urrego.
