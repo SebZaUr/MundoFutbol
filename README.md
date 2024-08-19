@@ -20,5 +20,5 @@ Para comenzar a utilizar MundoFutbol, simplemente accede a nuestra plataforma en
 
 ## Autores
 
-- Cesar David Amaya Gomez.
-- Sebastian Zamora Urrego.
+- Cesar David Amaya Gomez [GitHub](https://github.com/XxELIngexX).
+- Sebastian Zamora Urrego [GitHub](https://github.com/SebZaUr).
